@@ -1,0 +1,11 @@
+{
+    "name": "ffomezolam/enum",
+    "description": "Basic Enum extension class for PHP",
+    "authors": [
+        {
+            "name": "ffomezolam",
+            "email": "ffomezolam@gmail.com"
+        }
+    ],
+    "require": {}
+}
